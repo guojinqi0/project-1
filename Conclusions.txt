@@ -1,0 +1,8 @@
+Out of the business operation specialists occupations analyzed:
+  Management Analysts have the highest number of employees and also has a higher average hourly salary. Most of the employees are located     in CA, TX, NY, FL and they get paid the most in CA, WA, TX, NY.
+
+Out of the computer occupations analyzed:
+  Software developers make the most with the highest number of employees. The number of employees/demand also increase the fastest from       2014-2018. Most of the employees are located in CA, TX and they get paid the most in CA, WA, TX, NY, NJ.
+
+Out of the Engineer Occupations analyzed:
+  Computer Hardware Engineers and Aerospace Engineers make the most, however, the number of employees are the least. Most of the employees   are located in CA, TX and the pay varies by specific occupations.
